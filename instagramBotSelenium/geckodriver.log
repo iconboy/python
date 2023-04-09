@@ -1,0 +1,1643 @@
+1681011385103	geckodriver	INFO	Listening on 127.0.0.1:52149
+1681011437301	geckodriver	INFO	Listening on 127.0.0.1:52213
+1681011437815	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile1pzNxu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681011455686	Marionette	INFO	Marionette enabled
+1681011456041	Marionette	INFO	Listening on port 52224
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52224
+WebDriver BiDi listening on ws://127.0.0.1:52214
+1681011456243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile1pzNxu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52214/devtools/browser/79c0c6d8-d7a8-4a52-80ac-8221c36ac5f8
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681011471603	geckodriver	INFO	Listening on 127.0.0.1:52271
+1681011472118	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileZ0XBdk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681011472566	Marionette	INFO	Marionette enabled
+1681011472772	Marionette	INFO	Listening on port 52280
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52272
+Read port: 52280
+1681011472908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileZ0XBdk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52272/devtools/browser/520d4b90-6bed-4527-ab03-969b1b42c124
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681011506541	geckodriver	INFO	Listening on 127.0.0.1:52345
+1681011507050	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileK4IGg4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681011507531	Marionette	INFO	Marionette enabled
+1681011507618	Marionette	INFO	Listening on port 52353
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52353
+WebDriver BiDi listening on ws://127.0.0.1:52346
+1681011507750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileK4IGg4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52346/devtools/browser/50e0a4c3-35ba-4c4a-8fea-404d66be1e35
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681011516191	geckodriver	INFO	Listening on 127.0.0.1:52403
+1681011516699	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileC0kSGQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681011517224	Marionette	INFO	Marionette enabled
+1681011517430	Marionette	INFO	Listening on port 52414
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52404
+Read port: 52414
+1681011517660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileC0kSGQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52404/devtools/browser/cf320bd3-c941-486b-b428-58a2b573b1ed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681011659770	geckodriver	INFO	Listening on 127.0.0.1:52543
+1681011660282	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilel0R4hC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681011660824	Marionette	INFO	Marionette enabled
+1681011661031	Marionette	INFO	Listening on port 52562
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52544
+Read port: 52562
+1681011661247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilel0R4hC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52544/devtools/browser/38ec9389-82bb-4ed3-8dab-a9b0df908dfd
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681011790917	geckodriver	INFO	Listening on 127.0.0.1:52687
+1681011791428	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileOWxIwL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681011791961	Marionette	INFO	Marionette enabled
+1681011792062	Marionette	INFO	Listening on port 52696
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52696
+WebDriver BiDi listening on ws://127.0.0.1:52688
+1681011792296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileOWxIwL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52688/devtools/browser/d8ee2dc9-1fdd-4335-8ca6-dbd51acbd9d9
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript error: resource://devtools/server/actors/resources/network-events-content.js, line 67: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsISupports.QueryInterface]
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1681011876716	geckodriver	INFO	Listening on 127.0.0.1:52768
+1681011877224	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilenIkcmu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681011877756	Marionette	INFO	Marionette enabled
+1681011877970	Marionette	INFO	Listening on port 52777
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52769
+Read port: 52777
+1681011878187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilenIkcmu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52769/devtools/browser/1adee7c6-f533-4e30-9e9b-056d123948a9
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681012186799	geckodriver	INFO	Listening on 127.0.0.1:52975
+1681012187303	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileVEw3Tv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681012187868	Marionette	INFO	Marionette enabled
+1681012188077	Marionette	INFO	Listening on port 52984
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52984
+WebDriver BiDi listening on ws://127.0.0.1:52976
+1681012188240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileVEw3Tv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52976/devtools/browser/3c2c0276-22cc-4cc7-8268-8c91700303d1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681012259886	Marionette	INFO	Stopped listening on port 52280
+1681012261689	Marionette	INFO	Stopped listening on port 52224
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1681012359379	geckodriver	INFO	Listening on 127.0.0.1:53109
+1681012359892	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileVDtlic"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681012360422	Marionette	INFO	Marionette enabled
+1681012360629	Marionette	INFO	Listening on port 53118
+Read port: 53118
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53110
+1681012360757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileVDtlic/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53110/devtools/browser/bd549bb9-9f6c-4931-ba50-54a499a55d84
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681012442581	geckodriver	INFO	Listening on 127.0.0.1:53226
+1681012443094	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileTq0UAK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681012443605	Marionette	INFO	Marionette enabled
+1681012443699	Marionette	INFO	Listening on port 53236
+Read port: 53236
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53227
+1681012443922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileTq0UAK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53227/devtools/browser/4fd01811-aa96-40c5-9a41-5015459f91d6
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681012546754	geckodriver	INFO	Listening on 127.0.0.1:53332
+1681012547268	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileyBfu67"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681012547779	Marionette	INFO	Marionette enabled
+1681012547873	Marionette	INFO	Listening on port 53342
+Read port: 53342
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53333
+1681012548074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileyBfu67/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53333/devtools/browser/94d8c212-b5ae-4b7a-8d56-cbc5badd226c
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681012680467	geckodriver	INFO	Listening on 127.0.0.1:53451
+1681012680977	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileApFTKo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681012681563	Marionette	INFO	Marionette enabled
+1681012681774	Marionette	INFO	Listening on port 53470
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53470
+WebDriver BiDi listening on ws://127.0.0.1:53452
+1681012681909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileApFTKo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53452/devtools/browser/30ad9c4b-7d99-40ce-b756-2071f56ed5a9
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681013630224	geckodriver	INFO	Listening on 127.0.0.1:53982
+1681013630327	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileQBoMNk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681013631846	Marionette	INFO	Marionette enabled
+1681013632105	Marionette	INFO	Listening on port 53992
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53992
+WebDriver BiDi listening on ws://127.0.0.1:53983
+1681013632333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileQBoMNk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53983/devtools/browser/a7a6261e-2a64-42b7-b5cc-b0b76cfba624
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681013640327	Marionette	INFO	Stopped listening on port 52353
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681013644216	Marionette	INFO	Stopped listening on port 52414
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681013649412	Marionette	INFO	Stopped listening on port 52562
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450946/pagestyle20 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1681013747455	geckodriver	INFO	Listening on 127.0.0.1:54132
+1681013747968	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilezBJmGb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681013748493	Marionette	INFO	Marionette enabled
+1681013748704	Marionette	INFO	Listening on port 54141
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54133
+Read port: 54141
+1681013748928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilezBJmGb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54133/devtools/browser/9931035b-4d9d-48fd-b9bb-caf69d0017b4
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681013800569	geckodriver	INFO	Listening on 127.0.0.1:54224
+1681013801082	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileh2kHNL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681013801597	Marionette	INFO	Marionette enabled
+1681013801683	Marionette	INFO	Listening on port 54234
+Read port: 54234
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54225
+1681013801821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileh2kHNL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54225/devtools/browser/4411e947-180b-4764-bc83-f8773b63b112
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681013909738	geckodriver	INFO	Listening on 127.0.0.1:54485
+1681013910244	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile5Nzcy8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681013910731	Marionette	INFO	Marionette enabled
+1681013910823	Marionette	INFO	Listening on port 54502
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54502
+WebDriver BiDi listening on ws://127.0.0.1:54486
+1681013911048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile5Nzcy8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54486/devtools/browser/6e23f022-e0aa-427d-b232-2ff79882f1a6
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681013973891	geckodriver	INFO	Listening on 127.0.0.1:54866
+1681013974398	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile7k7xpR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681013974912	Marionette	INFO	Marionette enabled
+1681013974999	Marionette	INFO	Listening on port 54878
+Read port: 54878
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:54867
+1681013975142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile7k7xpR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54867/devtools/browser/0fe95975-a1f7-4be9-8899-4bf1153f758a
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681014026524	geckodriver	INFO	Listening on 127.0.0.1:55166
+1681014027037	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileFqW6KQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014027541	Marionette	INFO	Marionette enabled
+1681014027748	Marionette	INFO	Listening on port 55183
+Read port: 55183
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55167
+1681014027870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileFqW6KQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55167/devtools/browser/58f59234-96c2-4fc4-913b-9078a4f3a235
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681014077164	geckodriver	INFO	Listening on 127.0.0.1:55467
+1681014077675	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileAqd8es"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014078210	Marionette	INFO	Marionette enabled
+1681014078306	Marionette	INFO	Listening on port 55481
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55481
+WebDriver BiDi listening on ws://127.0.0.1:55468
+1681014078543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileAqd8es/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55468/devtools/browser/dd04d73e-f782-4601-bc0a-0bacad393c69
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681014125071	geckodriver	INFO	Listening on 127.0.0.1:55750
+1681014125580	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileYfXdY5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014126157	Marionette	INFO	Marionette enabled
+1681014126365	Marionette	INFO	Listening on port 55768
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 55768
+WebDriver BiDi listening on ws://127.0.0.1:55751
+1681014126493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileYfXdY5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55751/devtools/browser/4477559a-d8ba-4bfc-a055-a684cbbce6ad
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1681014184395	geckodriver	INFO	Listening on 127.0.0.1:56094
+1681014184907	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileFWtW0q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014185444	Marionette	INFO	Marionette enabled
+1681014185650	Marionette	INFO	Listening on port 56107
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56095
+Read port: 56107
+1681014185873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileFWtW0q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56095/devtools/browser/2200f1dd-19cc-473e-8805-173d5a053229
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 1012))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:1012:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:203:10
+onDetached@resource://devtools/client/inspector/inspector.js:1671:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1681014284245	geckodriver	INFO	Listening on 127.0.0.1:56587
+1681014284755	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilevrV3D5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014285300	Marionette	INFO	Marionette enabled
+1681014285401	Marionette	INFO	Listening on port 56600
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56600
+WebDriver BiDi listening on ws://127.0.0.1:56588
+1681014285642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilevrV3D5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56588/devtools/browser/0ed63049-af32-4cc0-be75-1c2255099cb2
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681014321953	geckodriver	INFO	Listening on 127.0.0.1:56689
+1681014322466	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileP9XBOX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014323007	Marionette	INFO	Marionette enabled
+1681014323211	Marionette	INFO	Listening on port 56697
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56690
+Read port: 56697
+1681014323449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileP9XBOX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56690/devtools/browser/c38de360-da22-4df4-88a1-767a134e34ea
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681014333151	geckodriver	INFO	Listening on 127.0.0.1:56750
+1681014333664	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile7ajqpM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014334136	Marionette	INFO	Marionette enabled
+1681014334225	Marionette	INFO	Listening on port 56759
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56759
+WebDriver BiDi listening on ws://127.0.0.1:56751
+1681014334363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile7ajqpM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56751/devtools/browser/b470e288-5261-418e-837b-75c1022d6647
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681014363469	geckodriver	INFO	Listening on 127.0.0.1:56821
+1681014363983	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileMk8Bmy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014364503	Marionette	INFO	Marionette enabled
+1681014364713	Marionette	INFO	Listening on port 56829
+Read port: 56829
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56822
+1681014364839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileMk8Bmy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56822/devtools/browser/8c17620f-d564-4d6b-bfe6-a0a20b5e1e9d
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681014442557	geckodriver	INFO	Listening on 127.0.0.1:56898
+1681014443068	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileMWJOeB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014443614	Marionette	INFO	Marionette enabled
+1681014443826	Marionette	INFO	Listening on port 56907
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 56907
+WebDriver BiDi listening on ws://127.0.0.1:56899
+1681014443951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileMWJOeB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56899/devtools/browser/786af389-c20b-48f2-be65-d345bd05b81f
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681014539919	geckodriver	INFO	Listening on 127.0.0.1:57008
+1681014540427	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileHz0MAi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014540987	Marionette	INFO	Marionette enabled
+1681014541197	Marionette	INFO	Listening on port 57025
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 57025
+WebDriver BiDi listening on ws://127.0.0.1:57009
+1681014541331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileHz0MAi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57009/devtools/browser/9e0c9e72-f9c2-43ef-8eb8-6bbd7c892750
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681014705783	geckodriver	INFO	Listening on 127.0.0.1:57160
+1681014706286	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile6c9J7b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014706861	Marionette	INFO	Marionette enabled
+1681014706988	Marionette	INFO	Listening on port 57169
+Read port: 57169
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57161
+1681014707252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile6c9J7b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57161/devtools/browser/7dd77b0f-c4af-4a39-9093-c317f3b43ded
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681014896544	geckodriver	INFO	Listening on 127.0.0.1:57298
+1681014896660	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileqhhxiU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681014898091	Marionette	INFO	Marionette enabled
+1681014898352	Marionette	INFO	Listening on port 57308
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 57308
+WebDriver BiDi listening on ws://127.0.0.1:57299
+1681014898567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileqhhxiU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57299/devtools/browser/ad5ed5c4-0089-4d78-884f-3b39154100d6
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681015002132	geckodriver	INFO	Listening on 127.0.0.1:57395
+1681015002640	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileFI55Su"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681015003301	Marionette	INFO	Marionette enabled
+1681015003515	Marionette	INFO	Listening on port 57405
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 57405
+WebDriver BiDi listening on ws://127.0.0.1:57396
+1681015003644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileFI55Su/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57396/devtools/browser/ebb79055-3251-4ac5-894e-a30bd11f50fd
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681015331675	Marionette	INFO	Stopped listening on port 53342
+1681015333684	Marionette	INFO	Stopped listening on port 53470
+1681015337569	Marionette	INFO	Stopped listening on port 53992
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681015339734	Marionette	INFO	Stopped listening on port 54502
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681015352574	Marionette	INFO	Stopped listening on port 56907
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681015354465	Marionette	INFO	Stopped listening on port 57025
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681015356638	Marionette	INFO	Stopped listening on port 57169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681015360891	Marionette	INFO	Stopped listening on port 55768
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681015363197	Marionette	INFO	Stopped listening on port 55481
+1681015368411	Marionette	INFO	Stopped listening on port 57308
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681015370879	Marionette	INFO	Stopped listening on port 57405
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681015431949	geckodriver	INFO	Listening on 127.0.0.1:57645
+1681015432468	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile1s7ZtH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681015433255	Marionette	INFO	Marionette enabled
+1681015433472	Marionette	INFO	Listening on port 57654
+Read port: 57654
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57646
+1681015433639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile1s7ZtH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57646/devtools/browser/aabdae47-1f77-4cf6-9662-bf96ebea18da
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+JavaScript error: resource://devtools/client/shared/undo.js, line 144: TypeError: controllerWindow is null
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1681015514289	geckodriver	INFO	Listening on 127.0.0.1:57756
+1681015514804	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilebSDe2k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681015515325	Marionette	INFO	Marionette enabled
+1681015515532	Marionette	INFO	Listening on port 57764
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57757
+Read port: 57764
+1681015515766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilebSDe2k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57757/devtools/browser/4a8cfa4d-1136-4ae1-b913-b5c97829fd2a
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681015757454	geckodriver	INFO	Listening on 127.0.0.1:57959
+1681015757964	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilek0J57m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681015758471	Marionette	INFO	Marionette enabled
+1681015758675	Marionette	INFO	Listening on port 57968
+Read port: 57968
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57960
+1681015758799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilek0J57m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57960/devtools/browser/a64fb72f-d053-4d32-82c4-5ce4d89ffa09
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681015792311	geckodriver	INFO	Listening on 127.0.0.1:58037
+1681015792826	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileo54LUB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681015793366	Marionette	INFO	Marionette enabled
+1681015793458	Marionette	INFO	Listening on port 58046
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 58046
+WebDriver BiDi listening on ws://127.0.0.1:58038
+1681015793710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileo54LUB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58038/devtools/browser/f83f908d-b1aa-4210-8fb9-8acef030d72c
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681015796398	Marionette	INFO	Stopped listening on port 57654
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681015800936	Marionette	INFO	Stopped listening on port 57764
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681015904746	geckodriver	INFO	Listening on 127.0.0.1:58178
+1681015905262	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileWvbONe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681015905713	Marionette	INFO	Marionette enabled
+1681015905916	Marionette	INFO	Listening on port 58187
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 58187
+WebDriver BiDi listening on ws://127.0.0.1:58179
+1681015906053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileWvbONe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58179/devtools/browser/a66d9554-aa6a-4ddf-aa44-ecfd8cfe1e2c
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681016098564	geckodriver	INFO	Listening on 127.0.0.1:58353
+1681016099077	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileDfXr5i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681016099583	Marionette	INFO	Marionette enabled
+1681016099785	Marionette	INFO	Listening on port 58362
+Read port: 58362
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:58354
+1681016099909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileDfXr5i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58354/devtools/browser/e750af45-481f-4dfb-b783-1638fca74c53
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681016368485	geckodriver	INFO	Listening on 127.0.0.1:58542
+1681016368997	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileoPvc3m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681016369505	Marionette	INFO	Marionette enabled
+1681016369714	Marionette	INFO	Listening on port 58552
+Read port: 58552
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:58543
+1681016369839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileoPvc3m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58543/devtools/browser/216e01e2-c724-4639-a5d6-86a606197788
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681016574096	geckodriver	INFO	Listening on 127.0.0.1:58665
+1681016574611	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileraShbr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681016575147	Marionette	INFO	Marionette enabled
+1681016575249	Marionette	INFO	Listening on port 58673
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 58673
+WebDriver BiDi listening on ws://127.0.0.1:58666
+1681016575483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileraShbr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58666/devtools/browser/63d520e3-930f-497d-8b6d-41482c6faa49
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 932))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450949/pagestyle20 (resource://devtools/server/actors/page-style.js:932:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+1681017238613	geckodriver	INFO	Listening on 127.0.0.1:59103
+1681017238704	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileh9LOtb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681017240298	Marionette	INFO	Marionette enabled
+1681017240560	Marionette	INFO	Listening on port 59147
+Read port: 59147
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59104
+1681017240768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileh9LOtb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59104/devtools/browser/07d07120-7369-43d6-af3a-b67dfbb0e0ea
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:746:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1509:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:534:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1509, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1509))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1043:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:537:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1043, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1043))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:327:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681017273250	geckodriver	INFO	Listening on 127.0.0.1:59208
+1681017273763	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile5xFZcw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681017274280	Marionette	INFO	Marionette enabled
+1681017274485	Marionette	INFO	Listening on port 59217
+Read port: 59217
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59209
+1681017274602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile5xFZcw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59209/devtools/browser/65467dd6-6363-4815-9429-b2a2abd4c0f2
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681017501996	geckodriver	INFO	Listening on 127.0.0.1:59378
+1681017502506	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile47OpFO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681017503047	Marionette	INFO	Marionette enabled
+1681017503140	Marionette	INFO	Listening on port 59387
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59387
+WebDriver BiDi listening on ws://127.0.0.1:59379
+1681017503358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile47OpFO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59379/devtools/browser/f79f4286-c378-4ec4-b36b-c42946d5c0ab
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681017513663	Marionette	INFO	Stopped listening on port 58552
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1681017517351	Marionette	INFO	Stopped listening on port 58046
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681017521786	Marionette	INFO	Stopped listening on port 58673
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681017660808	geckodriver	INFO	Listening on 127.0.0.1:59497
+1681017661322	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilebKvqju"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681017661826	Marionette	INFO	Marionette enabled
+1681017662031	Marionette	INFO	Listening on port 59515
+Read port: 59515
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59498
+1681017662148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilebKvqju/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59498/devtools/browser/2bbb040a-6bb0-4ca2-b2ef-b3524e1ecd5a
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681017773144	Marionette	INFO	Stopped listening on port 59515
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1681017791621	geckodriver	INFO	Listening on 127.0.0.1:59618
+1681017792136	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilenix386"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681017792588	Marionette	INFO	Marionette enabled
+1681017792791	Marionette	INFO	Listening on port 59626
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 59626
+WebDriver BiDi listening on ws://127.0.0.1:59619
+1681017792922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilenix386/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59619/devtools/browser/5c118688-f7d4-4439-aab2-a9f8405d643e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681018245547	geckodriver	INFO	Listening on 127.0.0.1:59855
+1681018246060	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileCEsYqg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681018246575	Marionette	INFO	Marionette enabled
+1681018246776	Marionette	INFO	Listening on port 59864
+Read port: 59864
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59856
+1681018246898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileCEsYqg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59856/devtools/browser/fdddf91b-4075-42c3-b603-c7f687c266ed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681018332432	geckodriver	INFO	Listening on 127.0.0.1:59971
+1681018332947	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofiletRbjMn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681018333458	Marionette	INFO	Marionette enabled
+1681018333660	Marionette	INFO	Listening on port 59980
+Read port: 59980
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59972
+1681018333780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofiletRbjMn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59972/devtools/browser/5cc48612-d40e-4803-ac57-74646ad6b0a2
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681018572826	geckodriver	INFO	Listening on 127.0.0.1:60144
+1681018573339	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileeFWwEz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681018573847	Marionette	INFO	Marionette enabled
+1681018574048	Marionette	INFO	Listening on port 60152
+Read port: 60152
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:60145
+1681018574168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileeFWwEz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60145/devtools/browser/07b39935-64cf-4165-9471-4bb423a4c2e1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Can't start recording from event type: " "paste"
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1681023676322	geckodriver	INFO	Listening on 127.0.0.1:61373
+1681023676832	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilexg1ZEf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681023677355	Marionette	INFO	Marionette enabled
+1681023677558	Marionette	INFO	Listening on port 61383
+Read port: 61383
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61374
+1681023677686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilexg1ZEf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61374/devtools/browser/5763184e-dd84-4042-a8a6-43e3c13a592c
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681023816281	geckodriver	INFO	Listening on 127.0.0.1:61601
+1681023816793	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile1wI0aF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681023817579	Marionette	INFO	Marionette enabled
+1681023817801	Marionette	INFO	Listening on port 61611
+Read port: 61611
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61602
+1681023817967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile1wI0aF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61602/devtools/browser/12e1aeda-a427-4773-8e19-1bd2a2d76ea8
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 15: TypeError: gBrowser is undefined
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450949/pagestyle20 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 15: TypeError: gBrowser is undefined
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 15: TypeError: gBrowser is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 15: TypeError: gBrowser is undefined
+1681024343077	geckodriver	INFO	Listening on 127.0.0.1:61995
+1681024343586	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilepvh0FI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681024344978	Marionette	INFO	Marionette enabled
+1681024345312	Marionette	INFO	Listening on port 62006
+Read port: 62006
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61996
+1681024345536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofilepvh0FI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61996/devtools/browser/20bb6b34-8bfd-4b82-941b-b008976406f3
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/page-style.js, line 523: TypeError: node is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450949/pagestyle20 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+1681024485363	geckodriver	INFO	Listening on 127.0.0.1:62150
+1681024485874	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile82l25i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681024487068	Marionette	INFO	Marionette enabled
+1681024487298	Marionette	INFO	Listening on port 62161
+Read port: 62161
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:62151
+1681024487483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofile82l25i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62151/devtools/browser/0631642d-57c5-4be6-a5b6-f167e77deeb6
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 15: TypeError: gBrowser is undefined
+JavaScript error: chrome://browser/content/browser-safebrowsing.js, line 15: TypeError: gBrowser is undefined
+1681040513190	geckodriver	INFO	Listening on 127.0.0.1:50114
+1681040513697	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileEvK1cT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681040515243	Marionette	INFO	Marionette enabled
+1681040515525	Marionette	INFO	Listening on port 50125
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 50125
+WebDriver BiDi listening on ws://127.0.0.1:50115
+1681040515721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/d6/h8st8j0x2x17qvkl_pr4fc4w0000gn/T/rust_mozprofileEvK1cT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50115/devtools/browser/80124873-6741-41ed-b4ab-845419cb3507
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yk/l/en_US/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yE/l/makehaste_jhash/T66HRnLdLkw.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
